@@ -1,1 +1,7 @@
-"Test" 
+Saad Misk
+
+git status
+git add example.txt
+git commit -m "Add new changes"
+git branch
+git push -u origin main
